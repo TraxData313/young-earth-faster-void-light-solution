@@ -2,14 +2,21 @@
 
 ## Summary
 
-This theory proposes that **light travels much faster** through **cosmic voids** — vast, ultra-low-energy-density regions of space.  
-It resolves the **distant starlight problem** for a young (~6,000-year) universe by using well-known electromagnetic relationships, without invoking exotic “dark” substances.
+This theory proposes that **light travels much faster** through **cosmic voids** — vast, ultra-low-energy-density regions of space, as hinted by real observations `c = 1 / sqrt(R)`
 
-An alternative cosmology framework where the vacuum’s electromagnetic properties vary across space.  
-In vast, low-energy-density cosmic voids, light speed is much higher (`c = 1/sqrt(μ * ε)`),  
-allowing light to cross apparent billions of light-years in thousands of years.  
-This model reproduces the redshift–distance relation with a tiny cumulative energy loss,  
-removing the need for dark energy or massive dark matter halos.
+![Speed of Light vs Energy Density](static/speed_of_light_vs_energy_dencity.png)
+| Substance       | Speed of Light (m/s) | Energy Density (J/m³) |
+|----------------|----------------------|------------------------|
+| Vacuum         | 299,792,458          | 6.91 × 10⁻¹⁰           |
+| Air            | 299,702,547          | 1.3                    |
+| Water          | 225,407,863          | 3,000.0                |
+| Glass (Crown)  | 197,000,000          | 6,000.0                |
+| Glass (Flint)  | 186,000,000          | 8,000.0                |
+| Diamond        | 124,000,000          | 18,000.0               |
+| Silicon        | 76,000,000           | 30,000.0               |
+
+
+It resolves the **distant starlight problem** for a young (~6,000-year) universe by using well-known electromagnetic relationships, without invoking exotic “dark” substances.
 
 ---
 
