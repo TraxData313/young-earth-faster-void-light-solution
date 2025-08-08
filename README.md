@@ -1,43 +1,20 @@
 # 🌌 Fast-Light in Voids: A Young Universe Perspective
 
+
 ## Summary
+There are no limitation for light not to travel faster in the void of space without needed billions of years to reach us from the distant Galaxies. 
 
-This theory proposes that **light travels much faster** through **cosmic voids** — vast, ultra-low-energy-density regions of space, as hinted by real observations `c = 1 / sqrt(R)`
+In fact light speed through different materials on Earth hints that its speed should shoot up to infinity as energy dencity approaches 0 in the voids of space.
 
-![Speed of Light vs Energy Density](static/speed_of_light_vs_energy_dencity.png)
-As R (Ressistance due to energy density) drops in voids, c (the speed of light) shoots out to infinity as the dencity approaches 0 in the voids if we don't invent "dark energy" to stop it. This is why we can see very distant objects almost instantly without needing billions of years for the light to reach us.
-| Substance       | Speed of Light (m/s) | Energy Density (J/m³) |
-|----------------|----------------------|------------------------|
-| Vacuum         | 299,792,458          | 6.91 × 10⁻¹⁰           |
-| Air            | 299,702,547          | 1.3                    |
-| Water          | 225,407,863          | 3,000.0                |
-| Glass (Crown)  | 197,000,000          | 6,000.0                |
-| Glass (Flint)  | 186,000,000          | 8,000.0                |
-| Diamond        | 124,000,000          | 18,000.0               |
-| Silicon        | 76,000,000           | 30,000.0               |
-
-
-It resolves the **distant starlight problem** for a young (~6,000-year) universe by using well-known electromagnetic relationships, without invoking exotic “dark” substances.
+Explains why we don't see older Galaxies the further we look and removes the need for huge amounts of theorized but never observed "dark matter" to have kept the very fast spinning Galaxies stable for billions of years.
 
 ---
 
-## 🧠 Key Points
+## Direct Light Speed Observations
 
-- **High-speed light in cosmic voids**  
-  - Vacuum impedance `R = μ * ε` is lower in cosmic voids than locally.
-  - Since `c = 1/sqrt(R)`, a lower `R` means a higher light speed.
-  - Allows light from objects that appear billions of light-years away to reach us within thousands of years.
+Light speed `c` is proportional to `1 / sqrt(Energy Density)`, as the `Energy Density` approaches zero in the deep voids of space, the speed of light `c` approaches infinity, or `Energy Density → 0` => `c → ∞`, so the light should traverse the voids of deep space almost instantly - no billions of years needed.
 
-- **No causality paradoxes**  
-  - In a universe with **absolute creation time**, higher local `c` values do not cause time-travel contradictions.
-
-- **Galaxies look mature at all distances**  
-  - JWST and Hubble have found large, stable, mature galaxies at high redshift (`z > 6`), when the standard model says they should look primitive.
-  - In this model, short look-back times explain the lack of “younger” galaxies.
-
-- **Dark matter problem reduced or eliminated**  
-  - In ΛCDM, high rotation speeds over billions of years require massive unseen halos.
-  - In this model, galaxy stability is considered over thousands of years — making the need for huge invisible halos vanish or shrink.
+![Speed of Light vs Energy Density](static/speed_of_light_vs_energy_dencity.png)
 
 ---
 
@@ -55,48 +32,47 @@ Where:
 Then:
 
 `c = 1 / sqrt(R)`
-
 - If `R` falls in low-energy-density voids, `c` rises sharply.  
 - No “new physics” is invented — we reinterpret known constants as environmental variables.
 
 ---
 
-## 📉 Redshift in This Model
+## Key Supporting Points
 
-- As `c` increases in voids, wavelength `λ` increases for constant `f` → **redder light** in transit.
-- Space contains a sparse distribution of particles/fields:
-  - Cumulative tiny **energy loss per distance**:  
-    `α = H0 / c0 ≈ 7.57 × 10^-27 m^-1`  
-    (≈ 0.023% per Mpc or 7.16 × 10^-11 per light-year)
-  - Matches observed Hubble slope without expansion.
-- Dimming = inverse-square geometry + small cumulative energy loss — not acceleration.
+- **Galaxies look mature at all distances**  
+  - JWST and Hubble have found large, stable, mature galaxies very far away (at high redshift `z > 6`), when the standard model says they should look primitive.
+  - In this model, short look-back times explain the lack of “younger” galaxies.
 
----
-
-## 📊 Observational Fits
-
-- **Mature galaxies** at all redshifts → expected due to short real travel times.
-- **No dark energy needed** — the “acceleration” signal from Type Ia supernovae is reinterpreted as a propagation/energy-loss effect.
-- **No (or minimal) dark matter needed** — stability over thousands of years doesn’t require huge invisible halos.
-- **Redshift–distance relation** comes from medium properties, not space expansion.
+- **Dark matter problem reduced or eliminated**  
+  - In ΛCDM, high rotation speeds over billions of years require massive unseen halos of "dark matter" to keep the Galaxies stable.
+  - In this model, galaxy stability is considered over thousands of years — making the need for huge invisible halos vanish or shrink.
 
 ---
 
-## 📌 Predictions
-
-1. Deep voids may reveal indirect signs of high-`c` propagation (timing anomalies, frequency shifts).
-2. Galaxy morphology and metallicity distributions will remain uniform across redshift.
-3. Observed “age” discrepancies at high `z` will persist — standard model will keep finding “too old” galaxies.
+## ✅ Summary
+- The direct Bible interpretation that the Universe is created about 6 000 years ago is consistent with what we observe
+- We follow the pattern of light speed increasing very fast as the medium gets voider, allowing the light to reach us without needing years to do so
+- We don't have to invent huge amounts of "dark enery" to explain expansion and light red shifting
+- We don't have to invent huge amounts of "dakr matter" to keep the Galaxies stable at the supposed billions of years
+- We don't see increasing number of "proto"/old Galaxies as we look further - we see them the same as expected
 
 ---
 
-## ✝️ For Biblical Believers
+## ✝️ For Bible Believers
 
+- The observable physics doesn't "prove the Bible wrong", on the contrary, it supports it.
 - Provides a physics-based mechanism consistent with a **literal 6-day creation** and a **~6,000-year** Earth age.
-- Explains how distant starlight could be visible on Day 4 without violating causality.
+- Explains how distant starlight could be and is expected to be visible on Day 4 even with the current physical laws.
 
 ---
 
-## ✅ Summary Line
-
-> **Variable vacuum impedance in cosmic voids → higher `c` → short real travel times + small energy loss → observed redshift and dimming without dark energy or dark matter.**
+## Data used in the "Speed of Light vs Energy Density by Material" plot
+| Substance       | Speed of Light (m/s) | Energy Density (J/m³) |
+|----------------|----------------------|------------------------|
+| Vacuum         | 299,792,458          | 6.91 × 10⁻¹⁰           |
+| Air            | 299,702,547          | 1.3                    |
+| Water          | 225,407,863          | 3,000.0                |
+| Glass (Crown)  | 197,000,000          | 6,000.0                |
+| Glass (Flint)  | 186,000,000          | 8,000.0                |
+| Diamond        | 124,000,000          | 18,000.0               |
+| Silicon        | 76,000,000           | 30,000.0               |
