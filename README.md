@@ -5,7 +5,7 @@
 This theory proposes that **light travels much faster** through **cosmic voids** — vast, ultra-low-energy-density regions of space, as hinted by real observations `c = 1 / sqrt(R)`
 
 ![Speed of Light vs Energy Density](static/speed_of_light_vs_energy_dencity.png)
-As R (Ressistance due to energy density) drops in voids, c (the speed of light) shoots out to infinity as the dencity approaches 0 in the voids if we don't invent "dark energy" to stop it
+As R (Ressistance due to energy density) drops in voids, c (the speed of light) shoots out to infinity as the dencity approaches 0 in the voids if we don't invent "dark energy" to stop it. This is why we can see very distant objects almost instantly without needing billions of years for the light to reach us.
 | Substance       | Speed of Light (m/s) | Energy Density (J/m³) |
 |----------------|----------------------|------------------------|
 | Vacuum         | 299,792,458          | 6.91 × 10⁻¹⁰           |
